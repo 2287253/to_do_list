@@ -34,3 +34,4 @@ A simple to-do list application built with Streamlit.
 3. Delete tasks using the trash icon button
 4. Filter tasks by status (All/Active/Completed) and priority (All/High/Medium/Low)
 5. View task summary statistics at the bottom of the page "# to_do_list" 
+"# to_do_list" 
